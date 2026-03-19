@@ -57,7 +57,7 @@ Puncak populasi idol dalam dataset berada pada tahun kelahiran **1995-2005**, ya
 ## 💻 Cara Penggunaan
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/username-kamu/analisis-kpop-idol.git](https://github.com/username-kamu/analisis-kpop-idol.git)
+    git clone [https://github.com/jeje-ui/analisis-kpop-idol.git](https://github.com/jeje-ui/analisis-kpop-idol.git)
     ```
 2.  **Instalasi Library:**
     ```bash
